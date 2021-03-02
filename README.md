@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@devendr82949967" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@devendr82949967" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devendra kumar" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devendra kumar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/devendra-kumar-558b4712b" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100057260570396" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/heartdonor" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heartdonor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCT6OivzfWg0ZmiWYnVwxKaQ" target= "_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="devendra kumar" height="30" width="40" /></a>
