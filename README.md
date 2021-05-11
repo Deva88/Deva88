@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" style="max-width:100%;/></p>
  <br>                                                                                                                       
 
