@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
 <h3 align="center">Do more than believe: practice.</h3>
-<img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" width="1000" height="1000" />
+<img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" width="800" height="700" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva88&label=Profile%20views&color=0e75b6&style=flat" alt="deva88" /> </p>
