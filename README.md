@@ -2,15 +2,13 @@
 <p align="right">
 <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" style="max-width:100%;/></p>
  <br>                                                                                                                       
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deva88&label=Profile%20views&color=0e75b6&style=flat" alt="deva88" /> </p>
 
-- 🌱 I’m currently learning **Linux and Github**
+- 🌱 I’m currently learning **Node JS and JavaScript**
 
-- 🤝 I’m looking for help with **Linux/Git(Github)**
+- 🤝 I’m looking for help with **Node Js / JavaScript**
 
-- 💬 Ask me about **Html,javascript,Oops,Css,Linux and Git**
+- 💬 Ask me about **Html,javascript,Oops,Css,Linux,core java, Adv. java and Git(Github)**
 
 - 📫 How to reach me : **devendra.raj.sdm@gmail.com**
 
