@@ -13,6 +13,37 @@
 - 📫 How to reach me : **devendra.raj.sdm@gmail.com**
 
 - ⚡ Fun fact **Late-night listening to Music,CODING,Reading.**
+                                                                                                                                 
+                                                                                                                                 
+<b>Devendra Kumar
+   QA Automation Engineer
+  Contact No:- +91-8123273639
+  Email ID:- devendra.raj.sdm@gmail.com
+  GitHub Profile:- https://github.com/Deva88
+  LinkedIn Profile:- mailto:www.linkedin.com/in/devendra-kumar-0
+                                                                                                                                 </b>                                                                                                                              
+Technical Profile Summary
+Technology & Frameworks
+TestNG, Junit, Page Object.
+Data Structures
+Arrays, Stacks, Queues, Linked List, Tree, hash map
+Object Oriented Design
+Strong understanding of OOPS Concept, Exception Handling.
+Tools
+IntelliJ Idea, Eclipse, Visual Studio, Selenium WebDriver, Postman, bug tracker. Education
+B.E. (VTU University) August 2013- July 2018
+Studied at SDM College of Engineering and Technology, Dharwad, Karnataka and Specialized in Computer Science and Engineering securing 6.71 CGPA. Programming Experience
+1. Engineer at BridgeLabz Solutions Pvt Ltd February 2021- Till Now
+Core Java Projects:
+1. UserRegistration By JUnit: Create an application which takes input from users like Email, FirstName, LastName, City, Zip Code, Phone Number and test it using REGEX and by using Nunit testing framework with hard coded values, shows output or error using exceptions.
+2. AddressBook Application: Create an application address book which takes input from the user and stores contact details in the address book. Manages state wise multiple address books and store contacts. It has functionality to update existing contact, Delete contact, Search by state, Search by city, Get Number of contacts etc. using Map, List collection classes and their method to show appropriate data.
+QA Automation Projects:
+1. API Testing: Tested Spotify Api using postman by creating a playlist, adding and replacing tracks by album or artist or track name, deleting tracks and playlist, updating cover image, etc. All done using API testing tools and Java Libraries.
+Tools Used: Postman, Rest Assured Java Library, Java .
+2. Manual Testing: Written High Level Scenarios (HLS), Test Cases for OpenCart Web App. Participated in the Review Process. Modified/Updated Test Cases as per Requirement Changes and Review Comments. Conducted Functional, Integration, System, Ad-Hoc, Cross-Browser Testing, Sanity, UAT.
+3. Automation Testing: Performed Web Automation on different applications using Selenium WebDriver with Java. Implemented Data Driven / Page Object Model using Selenium WebDriver. Generated Test Reports using Extent Reports and created log files for the same. Implemented TestNg framework to obtain efficient and better testing on the modules.
+ToolsUsed: Selenium webdriver, TestNG, Bug Tracker tool, Java.                                                                                                                       
+                                                                                                                                 
 <pre><b>
 
          ("###############################################################")
